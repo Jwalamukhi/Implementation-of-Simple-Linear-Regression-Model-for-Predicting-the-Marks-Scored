@@ -68,15 +68,15 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-1.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/711522f6-2621-4ba3-ab82-b6efbe69f4ab)
-2.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/633b54a6-a01b-4a4d-a481-d4fb2d914510)
-3.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/7e5414c5-5223-4823-81e2-aef9a42de629)
-4.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/6c34451f-47d9-4239-8a40-42548673b76c)
-5.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/44f3f01b-0ab2-4f57-ab14-fb128029d5ce)
-6.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/9440cc6c-0051-469f-87a5-3bcc8e5b3741)
-7.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/1f090553-b84b-4a74-ac3d-21b62ac7c742)
-8.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/03e17786-7e2e-4b65-8e25-d6822caef078)
-9.![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/2d5404d4-9d1a-497f-89d4-4f16eff9010d)
+1.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/711522f6-2621-4ba3-ab82-b6efbe69f4ab)
+2.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/633b54a6-a01b-4a4d-a481-d4fb2d914510)
+3.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/7e5414c5-5223-4823-81e2-aef9a42de629)
+4.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/6c34451f-47d9-4239-8a40-42548673b76c)
+5.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/44f3f01b-0ab2-4f57-ab14-fb128029d5ce)
+6.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/9440cc6c-0051-469f-87a5-3bcc8e5b3741)
+7.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/1f090553-b84b-4a74-ac3d-21b62ac7c742)
+8.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/03e17786-7e2e-4b65-8e25-d6822caef078)
+9.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/2d5404d4-9d1a-497f-89d4-4f16eff9010d)
 
 
 ## Result:
