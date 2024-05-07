@@ -65,6 +65,28 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Output:
 1.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/711522f6-2621-4ba3-ab82-b6efbe69f4ab)
 2.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/633b54a6-a01b-4a4d-a481-d4fb2d914510)
@@ -75,6 +97,40 @@ print("RMSE= ",rmse)
 7.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/1f090553-b84b-4a74-ac3d-21b62ac7c742)
 8.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/03e17786-7e2e-4b65-8e25-d6822caef078)
 9.  ![image](https://github.com/Jwalamukhi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953628/2d5404d4-9d1a-497f-89d4-4f16eff9010d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
